@@ -10,7 +10,7 @@ _site/**
 LICENSE-CODE.md
 LICENSE.md
 LICENSE
-**/README.md
-**/README
+README.md
+README
 CITATION
 _quarto.yml
