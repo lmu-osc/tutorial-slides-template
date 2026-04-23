@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lmu-osc.github.io/tutorial-slides-template/index.html</loc>
-    <lastmod>2026-04-23T15:23:00.195Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/tutorial-slides-template/slides.html</loc>
-    <lastmod>2026-04-23T15:23:00.195Z</lastmod>
+    <loc>https://lmu-osc.github.io/tutorial-slides-template/LICENSE.html</loc>
+    <lastmod>2026-04-23T15:24:50.570Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-osc.github.io/tutorial-slides-template/LICENSE-CODE.html</loc>
-    <lastmod>2026-04-23T15:23:00.194Z</lastmod>
+    <lastmod>2026-04-23T15:24:50.570Z</lastmod>
   </url>
   <url>
-    <loc>https://lmu-osc.github.io/tutorial-slides-template/LICENSE.html</loc>
-    <lastmod>2026-04-23T15:23:00.194Z</lastmod>
+    <loc>https://lmu-osc.github.io/tutorial-slides-template/slides.html</loc>
+    <lastmod>2026-04-23T15:24:50.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/tutorial-slides-template/index.html</loc>
+    <lastmod>2026-04-23T15:24:50.571Z</lastmod>
   </url>
 </urlset>
