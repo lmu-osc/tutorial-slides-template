@@ -1,0 +1,26 @@
+---
+title: "Test repository for separate slide decks"
+author: "Sarah von Grebmer"
+date: "today"
+date-format: "DD/MM/YYYY"
+format: 
+  html: 
+    toc: true
+  revealjs:
+    css: assets/slides-custom.css # looks for css file in root
+    footer: LMU Open Science Center
+    slide-number: true
+    logo: images/LMU_Open_Science_Center_Logo.jpg  # Inserts logo in the bottom right corner (default)
+    output-file: slides.html
+  pdf:
+    geometry: 
+      - top=30mm
+      - left=30mm
+  pptx: 
+    css: assets/slides-custom.css # looks for css file in root
+
+execute:
+  echo: true
+  eval: true
+  # engine: knitr
+---

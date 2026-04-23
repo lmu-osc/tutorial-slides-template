@@ -1,0 +1,13 @@
+# Begin Project
+project:
+  type: website
+
+website:
+  title: Project Title Here
+  favicon: images/lmu_osc_logo.jpg
+  navbar:
+    title: false
+    background: "#00883A"
+    foreground: "#fff"
+    logo: images/LMU_Open_Science_Center_Logo.jpg
+# End Project
