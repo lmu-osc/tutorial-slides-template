@@ -1,6 +1,6 @@
 ---
-title: "Test repository for separate slide decks"
-author: "Sarah von Grebmer"
+title: Template Slides
+author: Author Name
 date: "today"
 date-format: "DD/MM/YYYY"
 format: 
